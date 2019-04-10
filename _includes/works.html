@@ -1,0 +1,44 @@
+<section class="works-single">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 wow fadeIn">
+          <h6>{{ page.h6 }}</h6>
+          <h2>{{ page.appName }}</h2>
+        </div>
+        <!-- end col-12 -->
+        <div class="col-lg-5 wow fadeIn">
+          <h4>
+            {{ page.shortDescription }}
+          </h4>
+        </div>
+        <!-- end col-5 -->
+        <div class="col-lg-7 wow fadeIn" data-wow-delay="0.10s">
+      <div class="text-desc row">
+            <div class="col-12 wow fadeIn" data-wow-delay="0s" style="visibility: visible; animation-delay: 0s; animation-name: fadeIn;">
+                <h5>Description</h5>
+                <p>{{ page.longDescription }}</p>
+            </div>
+            <!-- end col-6 -->
+            <div class="col-md-12 wow fadeIn" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeIn;">
+                <h5>Project</h5>
+                <p>{{ page.project }}</p>
+            </div>
+            <!-- end col-3 -->
+        </div> 
+        <!-- end text-desc -->
+        </div>
+        <!-- end col-7 --> 
+        <div class="col-12 wow fadeIn">
+            <a href="{{site.baseurl}}/images/{{ page.featuredImage }}" style="margin: 0 auto; display: table;" data-fancybox><img src="{{site.baseurl}}/images/{{ page.featuredImage }}" alt="Image"></a>
+        </div>
+        <!-- end col-4 -->
+        <div class="col-12 wow fadeIn">
+            <h3>Thanks For Your Interest</h3>
+        </div>
+        <!-- end col-12 -->
+      </div>
+      <!-- end row --> 
+    </div>
+    <!-- end container --> 
+  </section>
+  <!-- end works-single -->
