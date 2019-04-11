@@ -104,12 +104,6 @@
 				];
 				$('.equalizer').equalizerAnimation(250, barsHeight);
 	
-		// HAMBURGER AUDIO
-			document.getElementById("hamburger-menu").addEventListener('click', function(e) {
-			document.getElementById("hamburger-hover").play();
-	  	});
-		
-		
 	
 		// DATA BACKGROUND IMAGE
 			var pageSection = $(".bg-image");
@@ -119,28 +113,6 @@
 				}
 			});
 	
-	
-		
-		// HAMBURGER MENU
-		$('.hamburger').on('click', function(e) {
-			if ($(".navigation-menu").hasClass("active")) {
-				$(".hamburger").toggleClass("open");
-				$("body").toggleClass("overflow");
-				$(".navigation-menu").removeClass("active");
-				$(".navigation-menu .inner .menu").css("transition-delay", "0s");
-				$(".navigation-menu .inner blockquote").css("transition-delay", "0s");
-				$(".navigation-menu .bg-layers span").css("transition-delay", "0.3s");
-			} else
-			{
-				$(".navigation-menu").addClass('active');
-				$(".hamburger").toggleClass("open");
-				$("body").toggleClass("overflow");
-				$(".navigation-menu.active .inner .menu").css("transition-delay", "0.45s");
-				$(".navigation-menu.active .inner blockquote").css("transition-delay", "0.50s");
-				$(".navigation-menu .bg-layers span").css("transition-delay", "0s");
-			}
-			$(this).toggleClass("active");
-		});
 		
 		
 		

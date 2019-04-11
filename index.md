@@ -215,7 +215,7 @@ line3: SCROLL DOWN
       </div>
       <!-- end col-12 -->
       <div class="col-lg-5 col-md-8 wow fadeIn">
-        <h4>Do you have a project, opportunity, or are you just a looking to get creative solutions? <a href="mailto:hello@bradjackson.dev?Let's Work Together">Contact me now!</a> </h4>
+        <h4>Do you have a project, opportunity, or are you just a looking to discuss possible solutions? <a href="mailto:hello@bradjackson.dev?Let's Work Together">Contact me now!</a> </h4>
         <div class="custom-link wow fadeIn"> <a href="#clients">
           <div class="lines"> <span></span> <span></span> </div>
           <!-- end lines --> 
@@ -233,7 +233,7 @@ line3: SCROLL DOWN
   <div class="container">
     <div class="row">
       <div class="col-lg-5 wow fadeIn">
-        <h6>START WORKING WITH ME</h6>
+        <h6>THIS IS THE MORE PART</h6>
         <h2>My Clients</h2>
         <h4>Here's a sampling of some of the work around the web we've done. Enjoy!</h4>
         <div class="custom-link wow fadeIn"> <a href="mailto:hello@bradjackson.dev?subject=Let's Work Together">
@@ -247,12 +247,6 @@ line3: SCROLL DOWN
         <ul>
           <li><a href="https://www.bluesmokecigarbar.com" target="_blank"><img src="images/logo01.png" alt="Image"><small>Blue Smoke Cigar</small></a></li>
           <li><a href="https://www.bluecigarbus.com" target="_blank"><img src="images/logo02.png" alt="Image"><small>Blue Cigar Bus</small></a></li>
-          <li><img src="images/logo03.png" alt="Image"><small>BIRDIEST</small></li>
-          <li><img src="images/logo04.png" alt="Image"><small>PLOCSHA</small></li>
-          <li><img src="images/logo05.png" alt="Image"><small>NEWKY</small></li>
-          <li><img src="images/logo06.png" alt="Image"><small>HACHAPURY</small></li>
-          <li><img src="images/logo02.png" alt="Image"><small>LOKOMOTIVE</small></li>
-          <li><img src="images/logo05.png" alt="Image"><small>NEWKY</small></li>
         </ul>
       </div>
       <!-- end col-7 --> 

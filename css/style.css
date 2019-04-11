@@ -2370,7 +2370,7 @@ s .process span:before {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  padding: 100px 0;
+  padding: 20px 0;
   background: #0e0e0e;
   color: #fff;
 }
