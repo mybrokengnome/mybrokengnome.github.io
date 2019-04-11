@@ -6,14 +6,14 @@ layout: default
 tagline: Modern Software Solutions & Digital Marketing
 line1: Brad
 line2: Jackson
-line3: Learn More
+line3: SCROLL DOWN
 ---
 <section class="intro">
   <div class="container">
     <div class="row">
       <div class="col-12 wow fadeIn">
-        <h6>ABOUT US</h6>
-        <h2 data-text="Digital">Experienced software architect in a variety of verticals</h2>
+        <h6>ABOUT ME</h6>
+        <h2 data-text="Digital">Experienced software architect in a variety of markets</h2>
       </div>
       <!-- end col-12 -->
       <div class="col-lg-5 wow fadeIn">
@@ -21,7 +21,7 @@ line3: Learn More
       </div>
       <!-- end col-5 -->
       <div class="col-lg-7 wow fadeIn" data-wow-delay="0.10s">
-        <p>From mobile game &amp; app development, to healthcare, to trading &amp; investing software, we've worked on a huge variety of projects. Here's just a short list of our accomplishmenets:</p>
+        <p>From mobile game &amp; app development, to healthcare, to trading &amp; investing software, I've worked on a huge variety of projects. Here's just a short list of my accomplishmenets:</p>
         <p>
           <ul>
             <li>Lead Developer on many mobile games, including Uno which had over 1 million downloads</li>
@@ -29,13 +29,13 @@ line3: Learn More
             <li>Head of Software for a healthcare agency whose clientele included billion dollar pharmaceutical companies</li>
             <li>Director of Development for a creative agency whose clientele include top Fortune copmanies like General Electric &amp; IBM</li>
             <li>Software Development Manager for a D&amp;D Contractor developing applications for the Air Force &amp; Navy</li>
-            <li>Director of Development for an online trading &amp; investing company who delivers online financial summits and pushes the boundaries with properietary tools such as a custom ad network &amp; SMS messaging application</li>
+            <li>Director of Development for an online trading &amp; investing company who delivers online financial summits and pushes the boundaries with properietary tools such as a custom ad network, SMS messaging app, and a cloud based infrastructure.</li>
           </ul>
         </p>
-        <div class="custom-link wow fadeIn"> <a href="#">
+        <div class="custom-link wow fadeIn"> <a href="#services-content-block">
           <div class="lines"> <span></span> <span></span> </div>
           <!-- end lines --> 
-          <b>SCROLL TO LEARN MORE ABOUT OUR PROCESS</b></a> </div>
+          <b>SCROLL SOME MORE TO LEARN ABOUT MY PROCESS</b></a> </div>
         <!-- end custom-link --> 
       </div>
       <!-- end col-7 --> 
@@ -53,7 +53,7 @@ line3: Learn More
   <div class="container">
     <div class="row">
       <div class="col-12 wow fadeIn">
-        <h6>THE 3 PHASES</h6>
+        <h6>THE 3 PHASES OF MY PROCESS</h6>
         <h2>Creation of modern, user friendly applications &amp; websites </h2>
       </div>
       <!-- end col-12 -->
@@ -89,9 +89,8 @@ line3: Learn More
               <li>Prototype</li>
               <li>Software Development</li>
               <li>Content Creation</li>
-              <li>Imagery &amp; Iconagraphy</li>
               <li>Testing &amp; Deployment</li>
-              <li>Set up cloud infrastructure</li>
+              <li>Cloud infrastructure</li>
             </ul>
           </div>
           <!-- end right --> 
@@ -138,8 +137,8 @@ line3: Learn More
           <figure> <a href="images/featured01.jpg" data-fancybox><img src="images/featured01.jpg" alt="Image"></a></figure>
           <div class="content-box">
             <div class="inner"> <small>APPLICATIONS FOR BUILDING CUSTOMER LISTS &AMP; MANAGING COMMUNICATIONS</small>
-              <h3><span>Web</span>Applications</h3>
-              <div class="custom-link"> <a href="/web-applications">
+              <h3><span>Marketing</span>Tools</h3>
+              <div class="custom-link"> <a href="/marketing-tools">
                 <div class="lines"> <span></span> <span></span> </div>
                 <!-- end lines --> 
                 <b>LEARN MORE</b></a> </div>
@@ -211,15 +210,16 @@ line3: Learn More
     <div class="row">
       <div class="col-12 wow fadeIn">
         <h6>START WORKING WITH ME</h6>
-        <h2 data-text="Hire us">So that's us. There's no other way to put it.</h2>
+        <h2 data-text="Hire us">That's just a small showcase of my work.<br /><br />I'd love to opportunity to talk with you more about some of the other things I've done.
+        <br /><br />Please contact me at <a href="mailto:hello@bradjackson.dev?Let's Work Together">hello@bradjackson.dev</a> to get started on your next project!</h2>
       </div>
       <!-- end col-12 -->
       <div class="col-lg-5 col-md-8 wow fadeIn">
-        <h4>Do you have a project opportunity, or are you just a looking to get creative solutions?</h4>
-        <div class="custom-link wow fadeIn"> <a href="#">
+        <h4>Do you have a project, opportunity, or are you just a looking to get creative solutions? <a href="mailto:hello@bradjackson.dev?Let's Work Together">Contact me now!</a> </h4>
+        <div class="custom-link wow fadeIn"> <a href="#clients">
           <div class="lines"> <span></span> <span></span> </div>
           <!-- end lines --> 
-          <b>GET STARTED</b></a> </div>
+          <b>Psstttt... There's still more below</b></a> </div>
         <!-- end custom-link --> 
       </div>
       <!-- end col-5 --> 
@@ -233,20 +233,20 @@ line3: Learn More
   <div class="container">
     <div class="row">
       <div class="col-lg-5 wow fadeIn">
-        <h6>START WORKING WITH US</h6>
-        <h2>Our clients</h2>
-        <h4>Do you have a project opportunity, or are you just a looking to get creative solutions?</h4>
+        <h6>START WORKING WITH ME</h6>
+        <h2>My Clients</h2>
+        <h4>Here's a sampling of some of the work around the web we've done. Enjoy!</h4>
         <div class="custom-link wow fadeIn"> <a href="mailto:hello@bradjackson.dev?subject=Let's Work Together">
           <div class="lines"> <span></span> <span></span> </div>
           <!-- end lines --> 
-          <b>CLICK HERE TO START WORKING TOGETHER</b></a> </div>
+          <b>CLICK HERE TO GET ADDED TO THE LIST</b></a> </div>
         <!-- end custom-link --> 
       </div>
       <!-- end col-4 -->
       <div class="col-lg-7 wow fadeIn" data-wow-delay="0.10s">
         <ul>
-          <li><img src="images/logo01.png" alt="Image"><small>ABSTER</small></li>
-          <li><img src="images/logo02.png" alt="Image"><small>LOKOMOTIVE</small></li>
+          <li><a href="https://www.bluesmokecigarbar.com" target="_blank"><img src="images/logo01.png" alt="Image"><small>Blue Smoke Cigar</small></a></li>
+          <li><a href="https://www.bluecigarbus.com" target="_blank"><img src="images/logo02.png" alt="Image"><small>Blue Cigar Bus</small></a></li>
           <li><img src="images/logo03.png" alt="Image"><small>BIRDIEST</small></li>
           <li><img src="images/logo04.png" alt="Image"><small>PLOCSHA</small></li>
           <li><img src="images/logo05.png" alt="Image"><small>NEWKY</small></li>

@@ -1877,9 +1877,11 @@ s .process span:before {
 .work-with-us h2 {
   margin-bottom: 60px;
   font-weight: 800;
-  font-size: 60px;
-  line-height: 1.2;
-  padding-right: 35%;
+  font-size: 30px;
+  line-height: 1;
+}
+.work-with-us h2 a, .work-with-us h4 a {
+  color: white;
 }
 .work-with-us h2:before {
   content: attr(data-text);
