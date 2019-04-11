@@ -13,7 +13,7 @@ line3: Learn More
     <div class="row">
       <div class="col-12 wow fadeIn">
         <h6>ABOUT US</h6>
-        <h2 data-text="Digital">Experienced software architect in a variety of verticles</h2>
+        <h2 data-text="Digital">Experienced software architect in a variety of verticals</h2>
       </div>
       <!-- end col-12 -->
       <div class="col-lg-5 wow fadeIn">
@@ -236,7 +236,7 @@ line3: Learn More
         <h6>START WORKING WITH US</h6>
         <h2>Our clients</h2>
         <h4>Do you have a project opportunity, or are you just a looking to get creative solutions?</h4>
-        <div class="custom-link wow fadeIn"> <a href="#">
+        <div class="custom-link wow fadeIn"> <a href="mailto:hello@bradjackson.dev?subject=Let's Work Together">
           <div class="lines"> <span></span> <span></span> </div>
           <!-- end lines --> 
           <b>CLICK HERE TO START WORKING TOGETHER</b></a> </div>
