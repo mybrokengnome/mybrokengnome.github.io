@@ -19,7 +19,7 @@ email: hello@bradjackson.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Brad Jackson | Software Archectect covering your web, desktop, mobile, cloud, and digital marketing needs
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mybrokengnome.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bradjackson.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mybrokengnome
 github_username: mybrokengnome
 
