@@ -70,6 +70,7 @@ line3: Learn More
               <li>Content</li>
               <li>Launch Plan</li>
               <li>Marketing</li>
+              <li>Infrastructure &amp; scaling</li>
             </ul>
           </div>
           <!-- end right --> 
@@ -90,6 +91,7 @@ line3: Learn More
               <li>Content Creation</li>
               <li>Imagery &amp; Iconagraphy</li>
               <li>Testing &amp; Deployment</li>
+              <li>Set up cloud infrastructure</li>
             </ul>
           </div>
           <!-- end right --> 
