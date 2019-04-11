@@ -135,9 +135,9 @@ line3: Learn More
         <div class="project-box wow fadeIn" data-bg="#faf8ed">
           <figure> <a href="images/featured01.jpg" data-fancybox><img src="images/featured01.jpg" alt="Image"></a></figure>
           <div class="content-box">
-            <div class="inner"> <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small>
-              <h3><span>Karamel</span>Coffee</h3>
-              <div class="custom-link"> <a href="works-single.html">
+            <div class="inner"> <small>APPLICATIONS FOR BUILDING CUSTOMER LISTS &AMP; MANAGING COMMUNICATIONS</small>
+              <h3><span>Web</span>Applications</h3>
+              <div class="custom-link"> <a href="/web-applications">
                 <div class="lines"> <span></span> <span></span> </div>
                 <!-- end lines --> 
                 <b>LEARN MORE</b></a> </div>
@@ -180,6 +180,22 @@ line3: Learn More
           <!-- end content-box --> 
         </div>
         <!-- end project-box --> 
+        <div class="project-box wow fadeIn" data-bg="#faf8ed">
+          <figure> <a href="images/featured04.jpg" data-fancybox><img src="images/featured04.jpg" alt="Image"></a></figure>
+          <div class="content-box">
+            <div class="inner"> <small>CLOUD BASED INFRASTRUCTURE WITH AMAZON AWS</small>
+              <h3><span>Cloud</span>Infrastrucure</h3>
+              <div class="custom-link"> <a href="/cloud-infrastructure">
+                <div class="lines"> <span></span> <span></span> </div>
+                <!-- end lines --> 
+                <b>LEARN MORE</b></a> </div>
+              <!-- end custom-link --> 
+            </div>
+            <!-- end inner --> 
+          </div>
+          <!-- end content-box --> 
+        </div>
+        <!-- end project-box -->
       </div>
       <!-- end col-12 --> 
     </div>
