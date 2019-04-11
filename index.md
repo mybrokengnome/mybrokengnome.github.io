@@ -47,7 +47,7 @@ line3: SCROLL DOWN
 <!-- end intro -->
 <section class="services-content-block">
   <div class="video-bg">
-    <video src="videos/video.mp4?v=1.0.0" muted loop autoplay></video>
+    <video src="videos/video.mp4" muted loop autoplay></video>
   </div>
   <!-- end video-bg -->
   <div class="container">
@@ -70,7 +70,7 @@ line3: SCROLL DOWN
               <li>Content</li>
               <li>Launch Plan</li>
               <li>Marketing</li>
-              <li>Infrastructure &amp; scaling</li>
+              <li>Infrastructure &amp; Scaling</li>
             </ul>
           </div>
           <!-- end right --> 
