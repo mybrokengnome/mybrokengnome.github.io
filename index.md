@@ -205,6 +205,27 @@ line3: SCROLL DOWN
   <!-- end container --> 
 </section>
 <!-- end works -->
+<section class="process">
+  <div class="container">
+    <div class="row no-gutters">
+      <div class="col-12 wow fadeIn">
+        <h6>HERE'S WHAT I KNOW</h6>
+        <h2 data-text="Skills">Technology</h2>
+        <h4>Anyone who says they're a master at something is a liar. There's always more to learn.</h4>
+      </div>
+      <div class="col-12 wow fadeIn">
+        <div class="bar expert" data-skill="Software Development (Frontend &amp; Backend)"></div>
+        <div class="bar back advanced" data-skill="Cloud Infrastuructre"></div>
+        <div class="bar back advanced" data-skill="Digital Marketing"></div>
+        <div class="bar back intermediate" data-skill="Photoshop"></div>
+        <div class="bar back expert" data-skill="Finding the Right People to Fill Any Voids"></div>
+      </div>
+      <!-- end col-12 -->
+    </div>
+    <!-- end row --> 
+  </div>
+  <!-- end container --> 
+</section>
 <section class="work-with-us">
   <div class="container">
     <div class="row">
