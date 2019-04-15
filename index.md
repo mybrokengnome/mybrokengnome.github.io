@@ -21,13 +21,13 @@ line3: SCROLL DOWN
       </div>
       <!-- end col-5 -->
       <div class="col-lg-7 wow fadeIn" data-wow-delay="0.10s">
-        <p>From mobile game &amp; app development, to healthcare, to trading &amp; investing software, I've worked on a huge variety of projects. Here's just a short list of my accomplishmenets:</p>
+        <p>From mobile game &amp; app development, to healthcare, to trading &amp; investing software, I've worked on a huge variety of projects. Here's just a handselected list of my accomplishmenets:</p>
         <p>
           <ul>
             <li>Lead Developer on many mobile games, including Uno which had over 1 million downloads</li>
             <li>Sole Developer on ValueCharts Bloomberg, a trading application built for the Bloomberg trading terminals. Voted best looking and most user friendly app</li>
             <li>Head of Software for a healthcare agency whose clientele included billion dollar pharmaceutical companies</li>
-            <li>Director of Development for a creative agency whose clientele include top Fortune copmanies like General Electric &amp; IBM</li>
+            <li>Director of Development for a creative agency whose clientele include top Fortune companies like General Electric &amp; IBM</li>
             <li>Software Development Manager for a D&amp;D Contractor developing applications for the Air Force &amp; Navy</li>
             <li>Director of Development for an online trading &amp; investing company who delivers online financial summits and pushes the boundaries with properietary tools such as a custom ad network, SMS messaging app, and a cloud based infrastructure.</li>
           </ul>
@@ -231,7 +231,7 @@ line3: SCROLL DOWN
     <div class="row">
       <div class="col-12 wow fadeIn">
         <h6>START WORKING WITH ME</h6>
-        <h2 data-text="Hire us">That's just a small showcase of my work.<br /><br />I'd love to opportunity to talk with you more about some of the other things I've done.
+        <h2 data-text="Hire Me">That's just a small showcase of my work.<br /><br />I'd love to opportunity to talk with you more about some of the other things I've done.
         <br /><br />Please contact me at <a href="mailto:hello@bradjackson.dev?Let's Work Together">hello@bradjackson.dev</a> to get started on your next project!</h2>
       </div>
       <!-- end col-12 -->
